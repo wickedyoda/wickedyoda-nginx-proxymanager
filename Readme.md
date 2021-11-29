@@ -1,4 +1,5 @@
-Attached file and uploaded dockerimages are my working configs and images. You can find the origional repo and devlopment at https://github.com/jc21/nginx-proxy-manager
+Attached file and uploaded dockerimages are my working configs and images. You can find the origional repo and devlopment at
+https://github.com/wickedyoda/nginx-proxy-manager
 
 My images are located @
 
